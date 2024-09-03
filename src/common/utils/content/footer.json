@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Company",
+    "menu": [
+      {
+        "text": "Pricing",
+        "url": "/pricing"
+      },
+      {
+        "text": "Getting Started",
+        "url": "/getting-started"
+      },
+      {
+        "text": "Contact Us",
+        "url": "/contact-us"
+      }
+    ]
+  },
+
+  {
+    "name": "Support",
+    "menu": [
+      {
+        "text": "Privacy Policy",
+        "url": "/privacy-policy"
+      },
+      {
+        "text": "Terms & Conditions",
+        "url": "/terms-conditions"
+      },
+      {
+        "text": "Cookie Policy",
+        "url": "/cookie-policy"
+      }
+    ]
+  }
+]

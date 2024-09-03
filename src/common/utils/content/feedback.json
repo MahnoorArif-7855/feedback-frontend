@@ -1,0 +1,656 @@
+[
+  {
+    "_id": {
+      "$oid": "645a56f49dc1421f190e89da"
+    },
+    "feedback": "They did a fair job of managing our account.  If you don't want to set up your account and put it on ROI Targeting, you can have Finch do this for you.  They are not cheap but their system can automate this.",
+    "category": "Churn",
+    "date": {
+      "$date": "2019-06-26T18:52:04.967Z"
+    },
+    "userId": "U04N20SHLBS",
+    "interestedUsers": [
+      {
+        "id": "U05370051RT",
+        "displayName": "Kellen Busby",
+        "name": "kellenbusby",
+        "channelName": "T04M9BL8DGD",
+        "_id": {
+          "$oid": "645a56f49dc1421f190e89db"
+        }
+      },
+      {
+        "id": "U052DRPK2MU",
+        "displayName": "Talal Siddiqui",
+        "name": "talalsiddiqui21",
+        "channelName": "T04M9BL8DGD",
+        "_id": {
+          "$oid": "645a56f49dc1421f190e89dc"
+        }
+      }
+    ],
+    "interestedChannels": {
+      "channelID": "C053FFJGTJT",
+      "channelName": "design"
+    },
+    "tags": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "645a56f49dc1421f190e89dd"
+    },
+    "feedback": "Nate was great to work with, he did a good job managing our campaigns. He also went above and beyond by assisting with our transition when we left Finch.",
+    "category": "Bugs",
+    "date": {
+      "$date": "2022-04-08T19:30:04.478Z"
+    },
+    "userId": "U052DRPK2MU",
+    "interestedUsers": [
+      {
+        "id": "U052DRPK2MU",
+        "displayName": "Talal Siddiqui",
+        "name": "talalsiddiqui21",
+        "channelName": "T04M9BL8DGD",
+        "_id": {
+          "$oid": "645a56f49dc1421f190e89de"
+        }
+      },
+      {
+        "id": "U04N20SHLBS",
+        "name": "patrick.philbin",
+        "_id": {
+          "$oid": "645a56f49dc1421f190e89df"
+        }
+      }
+    ],
+    "interestedChannels": {
+      "channelID": "C04MEPNTRQC",
+      "channelName": "general"
+    },
+    "tags": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "645a56f49dc1421f190e89e0"
+    },
+    "feedback": "Excellent communication and consistently achieves ROAS goals",
+    "category": "Feature Request",
+    "date": {
+      "$date": "2021-01-19T18:07:59.630Z"
+    },
+    "userId": "U04C48DNGMC",
+    "interestedUsers": [
+      {
+        "id": "U04N20SHLBS",
+        "name": "patrick.philbin",
+        "_id": {
+          "$oid": "645a56f49dc1421f190e89e1"
+        }
+      },
+      {
+        "id": "U04C48DNGMC",
+        "displayName": "Mahnoor Arif",
+        "name": "mahnoorarif5587",
+        "channelName": "TNMAC8W66",
+        "_id": {
+          "$oid": "645a56f49dc1421f190e89e2"
+        }
+      }
+    ],
+    "interestedChannels": {
+      "channelID": "C053FFJGTJT",
+      "channelName": "design"
+    },
+    "tags": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "645a56f59dc1421f190e89e9"
+    },
+    "feedback": "Their use of proprietary AI software for Google Adwords bidding on keywords. Their employees are very knowledgeable and help us out by growing our business and spending our ad budget wisely.",
+    "category": "Churn",
+    "date": {
+      "$date": "2020-09-25T14:46:07.957Z"
+    },
+    "userId": "U04C48DNGMC",
+    "interestedUsers": [
+      {
+        "id": "U05370051RT",
+        "displayName": "Kellen Busby",
+        "name": "kellenbusby",
+        "channelName": "T04M9BL8DGD",
+        "_id": {
+          "$oid": "645a56f59dc1421f190e89ea"
+        }
+      },
+      {
+        "id": "U052DRPK2MU",
+        "displayName": "Talal Siddiqui",
+        "name": "talalsiddiqui21",
+        "channelName": "T04M9BL8DGD",
+        "_id": {
+          "$oid": "645a56f59dc1421f190e89eb"
+        }
+      }
+    ],
+    "interestedChannels": {
+      "channelID": "C04MEPNTRQC",
+      "channelName": "general"
+    },
+    "tags": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "645a56f59dc1421f190e89ec"
+    },
+    "feedback": "The support and knowledge of their CS advisors, and their ability to get stuff done. The mechanisms to allow huge numbers of ads and variants to be managed.",
+    "category": "Bugs",
+    "date": {
+      "$date": "2021-01-26T20:22:21.759Z"
+    },
+    "userId": "U04N20SHLBS",
+    "interestedUsers": [
+      {
+        "id": "U052DRPK2MU",
+        "displayName": "Talal Siddiqui",
+        "name": "talalsiddiqui21",
+        "channelName": "T04M9BL8DGD",
+        "_id": {
+          "$oid": "645a56f59dc1421f190e89ed"
+        }
+      },
+      {
+        "id": "U04N20SHLBS",
+        "name": "patrick.philbin",
+        "_id": {
+          "$oid": "645a56f59dc1421f190e89ee"
+        }
+      }
+    ],
+    "interestedChannels": {
+      "channelID": "C053FFJGTJT",
+      "channelName": "design"
+    },
+    "tags": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "645a56f59dc1421f190e89ef"
+    },
+    "feedback": "The management of google adwords and bing have saved us money and helped us drive more traffic efficiently. We are able to let the software handle much of the management and it allows us to focus on other parts of our digital business.  Our account reps work hard and provide excellent advise as we look to continue to grow.",
+    "category": "Feature Request",
+    "date": {
+      "$date": "2021-01-19T18:16:47.387Z"
+    },
+    "userId": "U052DRPK2MU",
+    "interestedUsers": [
+      {
+        "id": "U04N20SHLBS",
+        "name": "patrick.philbin",
+        "_id": {
+          "$oid": "645a56f59dc1421f190e89f0"
+        }
+      },
+      {
+        "id": "U04C48DNGMC",
+        "displayName": "Mahnoor Arif",
+        "name": "mahnoorarif5587",
+        "channelName": "TNMAC8W66",
+        "_id": {
+          "$oid": "645a56f59dc1421f190e89f1"
+        }
+      }
+    ],
+    "interestedChannels": {
+      "channelID": "C04MEPNTRQC",
+      "channelName": "general"
+    },
+    "tags": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "645a56f59dc1421f190e89f2"
+    },
+    "feedback": "I had a very poor experience with Finch. Honestly, not sure I have any positive feedback to share.",
+    "category": "Feature Feedback (Positive)",
+    "date": {
+      "$date": "2021-01-19T17:59:05.704Z"
+    },
+    "userId": "U04C48DNGMC",
+    "interestedUsers": [
+      {
+        "id": "U04C48DNGMC",
+        "displayName": "Mahnoor Arif",
+        "name": "mahnoorarif5587",
+        "channelName": "TNMAC8W66",
+        "_id": {
+          "$oid": "645a56f59dc1421f190e89f3"
+        }
+      },
+      {
+        "id": "U053NGLNRMX",
+        "displayName": "Sean McGuire",
+        "name": "hello",
+        "channelName": "T04M9BL8DGD",
+        "_id": {
+          "$oid": "645a56f59dc1421f190e89f4"
+        }
+      }
+    ],
+    "interestedChannels": {
+      "channelID": "C053FFJGTJT",
+      "channelName": "design"
+    },
+    "tags": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "645a56f59dc1421f190e89f5"
+    },
+    "feedback": "The communication with my rep and how informative they were",
+    "category": "Feature Feedback (Negative)",
+    "date": {
+      "$date": "2020-09-24T01:51:06.958Z"
+    },
+    "userId": "U04N20SHLBS",
+    "interestedUsers": [
+      {
+        "id": "U053NGLNRMX",
+        "displayName": "Sean McGuire",
+        "name": "hello",
+        "channelName": "T04M9BL8DGD",
+        "_id": {
+          "$oid": "645a56f59dc1421f190e89f6"
+        }
+      },
+      {
+        "id": "U05370051RT",
+        "displayName": "Kellen Busby",
+        "name": "kellenbusby",
+        "channelName": "T04M9BL8DGD",
+        "_id": {
+          "$oid": "645a56f59dc1421f190e89f7"
+        }
+      }
+    ],
+    "interestedChannels": {
+      "channelID": "C04MEPNTRQC",
+      "channelName": "general"
+    },
+    "tags": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "645a56f59dc1421f190e89f8"
+    },
+    "feedback": "granularity of built structures / support in terms of automatic processes for PPC accounts / interaction with account manager",
+    "category": "Churn",
+    "date": {
+      "$date": "2020-10-01T11:07:02.348Z"
+    },
+    "userId": "U052DRPK2MU",
+    "interestedUsers": [
+      {
+        "id": "U05370051RT",
+        "displayName": "Kellen Busby",
+        "name": "kellenbusby",
+        "channelName": "T04M9BL8DGD",
+        "_id": {
+          "$oid": "645a56f59dc1421f190e89f9"
+        }
+      },
+      {
+        "id": "U052DRPK2MU",
+        "displayName": "Talal Siddiqui",
+        "name": "talalsiddiqui21",
+        "channelName": "T04M9BL8DGD",
+        "_id": {
+          "$oid": "645a56f59dc1421f190e89fa"
+        }
+      }
+    ],
+    "interestedChannels": {
+      "channelID": "C053FFJGTJT",
+      "channelName": "design"
+    },
+    "tags": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "645a56f59dc1421f190e89fb"
+    },
+    "feedback": "immediate action and followups. Nice and polite service",
+    "category": "Bugs",
+    "date": {
+      "$date": "2020-09-29T15:04:35.017Z"
+    },
+    "userId": "U04C48DNGMC",
+    "interestedUsers": [
+      {
+        "id": "U052DRPK2MU",
+        "displayName": "Talal Siddiqui",
+        "name": "talalsiddiqui21",
+        "channelName": "T04M9BL8DGD",
+        "_id": {
+          "$oid": "645a56f59dc1421f190e89fc"
+        }
+      },
+      {
+        "id": "U04N20SHLBS",
+        "name": "patrick.philbin",
+        "_id": {
+          "$oid": "645a56f59dc1421f190e89fd"
+        }
+      }
+    ],
+    "interestedChannels": {
+      "channelID": "C04MEPNTRQC",
+      "channelName": "general"
+    },
+    "tags": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "645a56f59dc1421f190e89fe"
+    },
+    "feedback": "Finch's advertising software is top-notch and improving every day. Our account executive has so much knowledge and keeps track of every project that we start and never forgets about seasonal peaks and downs. Very friendly and on time staff always.",
+    "category": "Feature Request",
+    "date": {
+      "$date": "2020-09-24T21:06:13.376Z"
+    },
+    "userId": "U04N20SHLBS",
+    "interestedUsers": [
+      {
+        "id": "U04N20SHLBS",
+        "name": "patrick.philbin",
+        "_id": {
+          "$oid": "645a56f59dc1421f190e89ff"
+        }
+      },
+      {
+        "id": "U04C48DNGMC",
+        "displayName": "Mahnoor Arif",
+        "name": "mahnoorarif5587",
+        "channelName": "TNMAC8W66",
+        "_id": {
+          "$oid": "645a56f59dc1421f190e8a00"
+        }
+      }
+    ],
+    "interestedChannels": {
+      "channelID": "C053FFJGTJT",
+      "channelName": "design"
+    },
+    "tags": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "645a56f59dc1421f190e8a01"
+    },
+    "feedback": "We value Finch's first-class experience in the field of Google AdWords. Thanks to the automated bidding and the intelligent algorithms, we can sit back and relax and watch our numbers improve. The costs decrease while the conversions increase. The perfect thing about the cooperation: our time investment is more or less around 4 hours a month.",
+    "category": "Feature Feedback (Positive)",
+    "date": {
+      "$date": "2020-09-24T07:27:47.747Z"
+    },
+    "userId": "U052DRPK2MU",
+    "interestedUsers": [
+      {
+        "id": "U04C48DNGMC",
+        "displayName": "Mahnoor Arif",
+        "name": "mahnoorarif5587",
+        "channelName": "TNMAC8W66",
+        "_id": {
+          "$oid": "645a56f59dc1421f190e8a02"
+        }
+      },
+      {
+        "id": "U053NGLNRMX",
+        "displayName": "Sean McGuire",
+        "name": "hello",
+        "channelName": "T04M9BL8DGD",
+        "_id": {
+          "$oid": "645a56f59dc1421f190e8a03"
+        }
+      }
+    ],
+    "interestedChannels": {
+      "channelID": "C04MEPNTRQC",
+      "channelName": "general"
+    },
+    "tags": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "645a56f59dc1421f190e8a04"
+    },
+    "feedback": "- the support and insights through customer success team",
+    "category": "Feature Feedback (Negative)",
+    "date": {
+      "$date": "2020-09-23T18:51:57.635Z"
+    },
+    "userId": "U04C48DNGMC",
+    "interestedUsers": [
+      {
+        "id": "U053NGLNRMX",
+        "displayName": "Sean McGuire",
+        "name": "hello",
+        "channelName": "T04M9BL8DGD",
+        "_id": {
+          "$oid": "645a56f59dc1421f190e8a05"
+        }
+      },
+      {
+        "id": "U04C48DNGMC",
+        "displayName": "Mahnoor Arif",
+        "name": "mahnoorarif5587",
+        "channelName": "TNMAC8W66",
+        "_id": {
+          "$oid": "645a56f59dc1421f190e8a06"
+        }
+      }
+    ],
+    "interestedChannels": {
+      "channelID": "C053FFJGTJT",
+      "channelName": "design"
+    },
+    "tags": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "645a56f59dc1421f190e8a07"
+    },
+    "feedback": "Good Control over CTR goals and monitoring",
+    "category": "Churn",
+    "date": {
+      "$date": "2020-09-23T17:20:43.110Z"
+    },
+    "userId": "U04N20SHLBS",
+    "interestedUsers": [
+      {
+        "id": "U04C48DNGMC",
+        "displayName": "Mahnoor Arif",
+        "name": "mahnoorarif5587",
+        "channelName": "TNMAC8W66",
+        "_id": {
+          "$oid": "645a56f59dc1421f190e8a08"
+        }
+      },
+      {
+        "id": "U053NGLNRMX",
+        "displayName": "Sean McGuire",
+        "name": "hello",
+        "channelName": "T04M9BL8DGD",
+        "_id": {
+          "$oid": "645a56f59dc1421f190e8a09"
+        }
+      }
+    ],
+    "interestedChannels": {
+      "channelID": "C04MEPNTRQC",
+      "channelName": "general"
+    },
+    "tags": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "645a56f59dc1421f190e8a0a"
+    },
+    "feedback": "Finch reps are well informed and have great feedback and suggestions. The Finch system has produced wonderful results for our business in marketing and driving interest.",
+    "category": "Bugs",
+    "date": {
+      "$date": "2020-09-23T17:09:52.435Z"
+    },
+    "userId": "U052DRPK2MU",
+    "interestedUsers": [
+      {
+        "id": "U053NGLNRMX",
+        "displayName": "Sean McGuire",
+        "name": "hello",
+        "channelName": "T04M9BL8DGD",
+        "_id": {
+          "$oid": "645a56f59dc1421f190e8a0b"
+        }
+      },
+      {
+        "id": "U053NGLNRMX",
+        "displayName": "Sean McGuire",
+        "name": "hello",
+        "channelName": "T04M9BL8DGD",
+        "_id": {
+          "$oid": "645a56f59dc1421f190e8a0c"
+        }
+      }
+    ],
+    "interestedChannels": {
+      "channelID": "C053FFJGTJT",
+      "channelName": "design"
+    },
+    "tags": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "645a56f59dc1421f190e8a0d"
+    },
+    "feedback": "I like the attention to details that my rep has, and that they are always willing to get me the info/data that I am looking for.",
+    "category": "Feature Feedback (Negative)",
+    "date": {
+      "$date": "2020-09-23T17:01:30.401Z"
+    },
+    "userId": "U04C48DNGMC",
+    "interestedUsers": [
+      {
+        "id": "U053NGLNRMX",
+        "displayName": "Sean McGuire",
+        "name": "hello",
+        "channelName": "T04M9BL8DGD",
+        "_id": {
+          "$oid": "645a56f59dc1421f190e8a0e"
+        }
+      },
+      {
+        "id": "U053NGLNRMX",
+        "displayName": "Sean McGuire",
+        "name": "hello",
+        "channelName": "T04M9BL8DGD",
+        "_id": {
+          "$oid": "645a56f59dc1421f190e8a0f"
+        }
+      }
+    ],
+    "interestedChannels": {
+      "channelID": "C04MEPNTRQC",
+      "channelName": "general"
+    },
+    "tags": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "645a56f49dc1421f190e89e3"
+    },
+    "feedback": "We have dedicated CSM's that work with us to optimize our campaigns and offer strategic advise when it comes to improving our yield. The Finch online platform is always being improved and refined. They take feedback about their insights portal seriously.\n\nThey are also open to our ideas and strategic tactics.",
+    "category": "Feature Feedback (Positive)",
+    "date": {
+      "$date": "2020-09-23T17:06:22.776Z"
+    },
+    "userId": "U04N20SHLBS",
+    "interestedUsers": [
+      {
+        "id": "U04C48DNGMC",
+        "displayName": "Mahnoor Arif",
+        "name": "mahnoorarif5587",
+        "channelName": "TNMAC8W66",
+        "_id": {
+          "$oid": "645a56f49dc1421f190e89e4"
+        }
+      },
+      {
+        "id": "U053NGLNRMX",
+        "displayName": "Sean McGuire",
+        "name": "hello",
+        "channelName": "T04M9BL8DGD",
+        "_id": {
+          "$oid": "645a56f49dc1421f190e89e5"
+        }
+      }
+    ],
+    "interestedChannels": {
+      "channelID": "C04MEPNTRQC",
+      "channelName": "general"
+    },
+    "tags": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "645a58ecd37f1b710855bef5"
+    },
+    "feedback": "We have dedicated CSM's that work with us to optimize our campaigns and offer strategic advise when it comes to improving our yield. The Finch online platform is always being improved and refined. They take feedback about their insights portal seriously.\n\nThey are also open to our ideas and strategic tactics.",
+    "category": "Feature Feedback (Positive)",
+    "date": {
+      "$date": "2020-09-23T17:06:22.776Z"
+    },
+    "userId": "U04N20SHLBS",
+    "interestedUsers": [
+      {
+        "id": "U04C48DNGMC",
+        "displayName": "Mahnoor Arif",
+        "name": "mahnoorarif5587",
+        "channelName": "TNMAC8W66",
+        "_id": {
+          "$oid": "645a58ecd37f1b710855bef6"
+        }
+      },
+      {
+        "id": "U053NGLNRMX",
+        "displayName": "Sean McGuire",
+        "name": "hello",
+        "channelName": "T04M9BL8DGD",
+        "_id": {
+          "$oid": "645a58ecd37f1b710855bef7"
+        }
+      }
+    ],
+    "interestedChannels": {
+      "channelID": "C04MEPNTRQC",
+      "channelName": "general"
+    },
+    "tags": ["tags", "slackapp"],
+    "__v": 0
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "value": "churn",
+    "label": "Churn feedback"
+  },
+  {
+    "value": "bugs",
+    "label": "Bug Feedback"
+  },
+  {
+    "value": "feature_request",
+    "label": "Feature feedback: Request"
+  },
+  {
+    "value": "feature_feedback_positive",
+    "label": "Feature feedback: Positive"
+  },
+  {
+    "value": "feature_feedback_negative",
+    "label": "Feature feedback: Negative"
+  },
+  {
+    "value": "na",
+    "label": "Feedback: Not Available"
+  },
+  {
+    "value": "how_tos",
+    "label": "Feedback: How-Tos"
+  },
+  {
+    "value": "others",
+    "label": "Feedback: Other"
+  }
+]

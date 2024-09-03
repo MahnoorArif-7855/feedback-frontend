@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'DM Sans', sans-serif;
+}
+
+h1 {
+  font-size: 1.17em;
+  font-weight: 700;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  font-family: 'DM Sans', sans-serif;
+  background: white;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+::selection {
+  color: #ffff;
+  background-color: #ff764f;
+}
+
+#outer-container {
+  background: linear-gradient(180deg, #fbf0ec 0%, #ffffff 1000px);
+}

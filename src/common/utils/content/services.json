@@ -1,0 +1,30 @@
+[
+  {
+    "id": "customer-centric",
+    "title": "Build a better product. Increase NRR.",
+    "content": "Powered by state-of-the-art LLM technology, receive concise weekly summaries of user requests, enabling you to increase retention based on data-driven product decisions.",
+    "image": "/images/customer.gif",
+    "command": "/create-feedback",
+    "commandDescription": "Try sharing feedback within your organization by copy-pasting the /create-feedback command "
+  },
+  {
+    "id": "churn",
+    "title": "Save time and make smarter decisions.",
+    "content": "Automate the process of analyzing customer feedback and make smarter decisions in less time.",
+    "image": "/images/customer-centric.svg",
+    "command": "Add a Feedback",
+    "commandDescription": "This command opens the modal in chat"
+  },
+  {
+    "id": "ai-graphic",
+    "title": "A Digital Library of Customer Feedback.",
+    "content": "Access a centralized hub of customer interactions and easily identify key trends to inform your product strategy.",
+    "image": "/images/graphics.gif"
+  },
+  {
+    "id": "profitable",
+    "title": "A customer centric AI Assistant.",
+    "content": "Your customer feedback will automatically train a ‘voice of the customer’ bot that any department can leverage for questions about product needs or generative AI.",
+    "image": "/images/churn-1.jpg"
+  }
+]
